@@ -8,40 +8,23 @@
     <language>zh-CN</language>
     <lastBuildDate>Thu, 07 Jan 2021 12:41:14 -0500</lastBuildDate><atom:link href="https://www.flysnow.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>DQN22</title>
-      <link>https://www.flysnow.org/post/my-first-post/</link>
+      <title>DQN: “Playing Atari with Deep Reinforcement Learning”</title>
+      <link>https://www.flysnow.org/post/DQNreading/</link>
       <pubDate>Thu, 07 Jan 2021 12:41:14 -0500</pubDate>
       
-      <guid>https://www.flysnow.org/post/my-first-post/</guid>
-      <description>The first DAY Today is my first day using Hugo.
-Paper reading This blog is mainly created to write down my thoughts about the papers I read.</description>
+      <guid>https://www.flysnow.org/post/DQNreading/</guid>
+      <description>Paper reading Abstract:  The first DL model to learn control policies from high-dimensional sensory input using RL; Model: CNN, trained with a variant of Q-learning; Input: raw pixels; Output: a value function estimating future rewards; Environment: seven Atari 2600 from ALE; Outperforms previous approaches on 6 games and surpasses a human expert on 3 games.  Introduction:   DL: able to extract high-level features from row sensory data
+ Computer vision (AlexNet, Aerial Image Labeling, Pedestrain detection, etc.); Speech recognition; Q: Can similar techniques be beneficial for RL with sensory data?    Challenges for combining RL &amp;amp; DL:
+ DL: large labelled data; RL: learn from sparse, noisy delayed scalar reward. DL: independent data samples; RL: highly correlated states. DL: DL: assume a fixed distribution; RL: data distribution changes as the algorithm learns.    Solution:</description>
     </item>
     
     <item>
-      <title>?</title>
-      <link>https://www.flysnow.org/2019/12/18/golang-gin-query-parameters-array-map.html</link>
-      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      <title>Test post</title>
+      <link>https://www.flysnow.org/post/test_post/</link>
+      <pubDate>Thu, 07 Jan 2021 12:41:14 -0500</pubDate>
       
-      <guid>https://www.flysnow.org/2019/12/18/golang-gin-query-parameters-array-map.html</guid>
-      <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
-    </item>
-    
-    <item>
-      <title>??</title>
-      <link>https://www.flysnow.org/post/2019-12-15-golang-gin-query-parameters-source-code-analysis/</link>
-      <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
-      
-      <guid>https://www.flysnow.org/post/2019-12-15-golang-gin-query-parameters-source-code-analysis/</guid>
-      <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
-    </item>
-    
-    <item>
-      <title>???</title>
-      <link>https://www.flysnow.org/post/2019-12-13-golang-gin-parameters-in-path/</link>
-      <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
-      
-      <guid>https://www.flysnow.org/post/2019-12-13-golang-gin-parameters-in-path/</guid>
-      <description>标题 hi 标题 ni 标题 shi 标题 段落内容 标题 段落内容</description>
+      <guid>https://www.flysnow.org/post/test_post/</guid>
+      <description>The first day The first day using Hugo. 标题二 段落二 标题三 段落三</description>
     </item>
     
     <item>

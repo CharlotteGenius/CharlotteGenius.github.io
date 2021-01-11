@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Charlotte&#39;s blog</title>
-    <link>https://www.flysnow.org/post/</link>
-    <description>Recent content in Posts on Charlotte&#39;s blog</description>
+    <title>paper on Charlotte&#39;s blog</title>
+    <link>https://www.flysnow.org/categories/paper/</link>
+    <description>Recent content in paper on Charlotte&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 07 Jan 2021 12:41:14 -0500</lastBuildDate><atom:link href="https://www.flysnow.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jan 2021 12:41:14 -0500</lastBuildDate><atom:link href="https://www.flysnow.org/categories/paper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DQN: “Playing Atari with Deep Reinforcement Learning”</title>
       <link>https://www.flysnow.org/post/DQNreading/</link>
@@ -16,15 +16,6 @@
       <description>Paper reading Abstract:  The first DL model to learn control policies from high-dimensional sensory input using RL; Model: CNN, trained with a variant of Q-learning; Input: raw pixels; Output: a value function estimating future rewards; Environment: seven Atari 2600 from ALE; Outperforms previous approaches on 6 games and surpasses a human expert on 3 games.  Introduction:   DL: able to extract high-level features from row sensory data
  Computer vision (AlexNet, Aerial Image Labeling, Pedestrain detection, etc.); Speech recognition; Q: Can similar techniques be beneficial for RL with sensory data?    Challenges for combining RL &amp;amp; DL:
  DL: large labelled data; RL: learn from sparse, noisy delayed scalar reward. DL: independent data samples; RL: highly correlated states. DL: DL: assume a fixed distribution; RL: data distribution changes as the algorithm learns.    Solution:</description>
-    </item>
-    
-    <item>
-      <title>Test post</title>
-      <link>https://www.flysnow.org/post/test_post/</link>
-      <pubDate>Thu, 07 Jan 2021 12:41:14 -0500</pubDate>
-      
-      <guid>https://www.flysnow.org/post/test_post/</guid>
-      <description>The first day The first day using Hugo. 标题二 段落二 标题三 段落三</description>
     </item>
     
   </channel>
